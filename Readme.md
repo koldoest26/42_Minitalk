@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minitalkm.png" />
+<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/covers/cover-minitalk.png" />
 
 # 42_Minitalk
 
